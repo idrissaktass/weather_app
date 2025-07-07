@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^6.0.2",
-    "@mui/material": "^6.0.2",
+    "@mui/material": "^7.2.0",
+    "@mui/system": "^7.2.0",
     "@mui/x-charts": "^8.7.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -15,6 +16,7 @@
     "dotenv": "^16.4.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-material-ui-carousel": "^3.4.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
