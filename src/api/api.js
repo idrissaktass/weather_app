@@ -6,7 +6,7 @@ export const fetchData = async (params = {}) => {
   try {
     const queryParams = new URLSearchParams({
       ...params,
-      key: process.env.REACT_APP_API_KEY
+      key: "2b4b59c5b9fb4e369130d3e18f7fd5f5"
     }).toString();
 
     const response = await axios.get(`${API_URL}?${queryParams}`);
